@@ -1,0 +1,22 @@
+{
+  "red": "Base Mainnet",
+  "total_contratos": 15,
+  "origen": "Coinbase L2",
+  "contratos": [
+    {"id": 1, "nombre": "LEDL_Token_Soberano", "address": "0x..."},
+    {"id": 2, "nombre": "LEDL_Governance", "address": "0x..."},
+    {"id": 3, "nombre": "EnsDeLiz_Registry", "address": "0x..."},
+    {"id": 4, "nombre": "AIKO_Security_Module", "address": "0x..."},
+    {"id": 5, "nombre": "ARES_Verification_Engine", "address": "0x..."},
+    {"id": 6, "nombre": "Wallet_Factory_4337", "address": "0x..."},
+    {"id": 7, "nombre": "Vault_Protocol", "address": "0x..."},
+    {"id": 8, "nombre": "Identity_Oracle", "address": "0x..."},
+    {"id": 9, "nombre": "Token_Bridge_Bridge", "address": "0x..."},
+    {"id": 10, "nombre": "DAO_Voting_Contract", "address": "0x..."},
+    {"id": 11, "nombre": "Rewards_Engine", "address": "0x..."},
+    {"id": 12, "nombre": "Analytics_Afrodita", "address": "0x..."},
+    {"id": 13, "nombre": "Emergency_Stop_Circuit", "address": "0x..."},
+    {"id": 14, "nombre": "Data_Storage_Adapter", "address": "0x..."},
+    {"id": 15, "nombre": "System_Master_Controller", "address": "0x..."}
+  ]
+}
