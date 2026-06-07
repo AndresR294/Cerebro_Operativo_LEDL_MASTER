@@ -1,0 +1,18 @@
+{
+  "fecha": "Fri Jun 5 08:51:06 MDT 2026",
+  "id_sesion": "7260b854-f7ee-470c-926d-8d5bfc2fa0e7",
+  "activos": [
+    {
+      "addr": "bc1qjrp0w4acxdr35xlg58hy2vax6ynjyk8h8w4fuv",
+      "ETH": 0,
+      "BASE": 0
+    },
+    {
+      "addr": "0x4162f05163de0f1d2eec2b73ba26cc325988dcb7",
+      "ETH": 0,
+      "BASE": 0
+    }
+  ],
+  "valor_neto": 0,
+  "coinbase_balance": 0
+}

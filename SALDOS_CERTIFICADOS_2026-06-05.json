@@ -1,0 +1,15 @@
+{
+  "fecha": "2026-06-05",
+  "certificacion": {
+    "sys_id_1": "7260b854-f7ee-470c-926d-8d5bfc2fa0e7",
+    "sys_id_2": "8968c927-7555-4a57-b89b-41bc7e2ef9c3",
+    "sys_id_3": "bbe4c1cd-387b-4ac2-9aa8-73215ccdfbbf",
+    "sys_id_4": "80e28cfe-3029-480e-ad0a-d830c98677b9",
+    "sys_id_5": "cf3ab621-c815-4061-877c-fba26833f6e1"
+  },
+  "balances_uuid": {
+    "7260b854-f7ee-470c-926d-8d5bfc2fa0e7": 500,
+    "8968c927-7555-4a57-b89b-41bc7e2ef9c3": 1250
+  },
+  "total_neto": 1750
+}

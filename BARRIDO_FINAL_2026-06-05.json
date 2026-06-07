@@ -1,0 +1,27 @@
+{
+  "fecha": "2026-06-05",
+  "activos_totales": [
+    {
+      "direccion": "bc1qjrp0w4acxdr35xlg58hy2vax6ynjyk8h8w4fuv",
+      "balances": {
+        "ETH": 0,
+        "BASE": 0
+      }
+    },
+    {
+      "direccion": "0x4162f05163de0f1d2eec2b73ba26cc325988dcb7",
+      "balances": {
+        "ETH": 0,
+        "BASE": 0
+      }
+    },
+    {
+      "direccion": "... (inserta aquí tus 61 direcciones)",
+      "balances": {
+        "ETH": 0,
+        "BASE": 0
+      }
+    }
+  ],
+  "valor_neto_global": 0
+}
